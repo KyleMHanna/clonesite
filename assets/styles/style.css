@@ -2,7 +2,7 @@
      background-image: url("/assets/crownroyal2.jpg"); 
     background-position: right;
     background-size: cover;
-    height: 45vh;
+    height: 50vh;
 }
 .artists {
     background-image: url("/assets/gunmetal\ backround.jpg");
@@ -11,7 +11,7 @@
     height: 20vh;
 }
 .crown-logo {
-    height: 5vh;
+    height: 6vh;
 }
 .blog {
     background-image: url("/assets/blogbackroung.jpg");
