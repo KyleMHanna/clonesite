@@ -1,0 +1,34 @@
+.crown {
+     background-image: url("/assets/crownroyal2.jpg"); 
+    background-position: right;
+    background-size: cover;
+    height: 45vh;
+}
+.artists {
+    background-image: url("/assets/gunmetal\ backround.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 20vh;
+}
+.crown-logo {
+    height: 5vh;
+}
+.blog {
+    background-image: url("/assets/blogbackroung.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 5vh;
+}
+.office {
+    background-image: url("/assets/office\ .jpg");
+    background-position: center;
+    background-size: cover;
+    height: 5vh;
+}
+
+.expert {
+background-image: url("/assets/expert.jpg");
+background-position: center;
+background-size: cover;
+height: 5vh;
+}
